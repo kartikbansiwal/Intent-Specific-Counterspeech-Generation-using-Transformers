@@ -1,0 +1,2 @@
+# Intent-Specific-Counterspeech-Generation-using-Transformers
+- Developed an intent-conditioned counterspeech system on IntentCONANv2 dataset with 13K+ labeled pairs across 4 intents - Fine-tuned T5-Large and OPT-1.3B using LoRA-based parameter-efficient adaptation with instruction tuning and prompts - Implemented training and inference with HuggingFace framework using AdamW, beam search, gradient clipping
